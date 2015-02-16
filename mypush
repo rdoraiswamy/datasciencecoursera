@@ -1,0 +1,4 @@
+git add .
+git add -A
+git commit -m "Added a markdown"
+git push
